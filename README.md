@@ -1,3 +1,5 @@
+# [Please use plumphp/plum instead](http://github.com/plumphp/plum)
+
 <img src="https://florian.ec/img/plum/logo.png" alt="Plum">
 ====
 
